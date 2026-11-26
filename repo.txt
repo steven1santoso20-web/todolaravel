@@ -1,0 +1,7 @@
+Nama Project: Nexus ToDo
+Framework: Laravel 12.74.0
+Bahasa Pemrograman: PHP
+Database: MySQL
+
+GitHub Repository:
+https://github.com/steven1santoso20-web/todolaravel.git
